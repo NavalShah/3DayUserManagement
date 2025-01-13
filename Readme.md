@@ -175,4 +175,4 @@ JWT_SECRET=your_jwt_secret_key
 node server.js
 ```
 
-5. Use Postman to test the API at http://localhost:5000.
+5. Use Postman to test the API at http://localhost:5000
