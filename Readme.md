@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project is a basic **User Management System** built using **Node.js**, **Express.js**, and **MongoDB**, featuring JWT-based authentication. It allows users to register, log in, and view their profiles. Sensitive information is securely stored using environment variables. The project implements basic CRUD operations and follows a modular structure for scalability and maintainability.
+This project is a basic **User Management System** built using **Node.js**, **Express.js**, and **MongoDB**, featuring JWT-based authentication. It allows users to register, log in, and view their profiles. Sensitive information is securely stored using environment variables. The project implements basic CRUD operations and follows a modular structure for scalability and maintainability. TODO: Add UI and add cloud based storage manually
 
 ---
 
